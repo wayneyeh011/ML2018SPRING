@@ -1,0 +1,1 @@
+python3 hw_best1.py $1 $2
