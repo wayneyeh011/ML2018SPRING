@@ -1,1 +1,1 @@
-python3 hw_best1.py $1 $2
+python3 hw1_best.py $1 $2
