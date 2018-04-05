@@ -172,7 +172,7 @@ testset = testset[feature_list]
 
 ## NOTE...some parameters are specified in advance
 u1, u0 = np.load('mu1.npy'), np.load('mu0.npy')
-Sig = np.load('Sig.npy')
+Sig = np.load('sig.npy')
 X = np.array(testset)
 n1, n0 = 7840, 24718
 
