@@ -1,6 +1,5 @@
 # ML2018SPRING
-ML Homeworks
+This repository keeps my works of Machine Learning (2018 Spring) instructed by Prof. Pei-Yuan Wu (NTU).
 
-本人是經研所的學生(2017-2019)
-
-Coding有不清楚的地方，請見諒！
+## Content
+...
