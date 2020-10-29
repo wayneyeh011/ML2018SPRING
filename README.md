@@ -7,4 +7,4 @@ This repository keeps my works of Machine Learning (2018 Spring) instructed by P
 * HW3: Image classification (CNN)
 * HW4: Dimension reduction, clustering (Kmeans, PCA, autoencoder)
 * HW5: Text sentiment classification (tf-idf, word embedding, RNN, LSTM)
-* HW6: Movie Recommendation (Matric Factorization)
+* HW6: Movie recommendation (Matric Factorization)
